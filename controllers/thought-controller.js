@@ -11,6 +11,7 @@ const thoughtController = {
                     )
                 })
                 .then(dbUserData => {
+                    console.log('Hit it!');
                     console.log(dbUserData);
                     if(!dbUserData) {
                         res.status(404).json({ message: 'No user found with this id!'});

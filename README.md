@@ -15,7 +15,7 @@
 * [Questions](#questions)  
 
 ## **Application Links**
-> [Video Demonstration](<iframe src="https://drive.google.com/file/d/1wuT6dOUTqp5dEUoOHgA0sj4g8Stturyc/preview" width="640" height="480"></iframe>)  
+> [Video Demonstration](https://drive.google.com/file/d/1wuT6dOUTqp5dEUoOHgA0sj4g8Stturyc/view)  
 > [GitHub Repository](https://github.com/hadleyc15/social-network-api)
 
 ## **Contributors** 

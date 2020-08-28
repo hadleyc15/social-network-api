@@ -15,7 +15,7 @@
 * [Questions](#questions)  
 
 ## **Application Links**
-> [Video Demonstration]()  
+> [Video Demonstration](<iframe src="https://drive.google.com/file/d/1wuT6dOUTqp5dEUoOHgA0sj4g8Stturyc/preview" width="640" height="480"></iframe>)  
 > [GitHub Repository](https://github.com/hadleyc15/social-network-api)
 
 ## **Contributors** 
@@ -50,16 +50,22 @@ This application was developed with the following application structures:
 
 ## **Screenshots**
 
+### <div align="center">**GET Route to see all users**</div>
 <img src="/assets/images/Screenshot%20(101).png" />
 
+### <div align="center">**POST Route to create a new user**</div>
 <img src="/assets/images/Screenshot%20(102).png" />
 
+### <div align="center">**POST Route to create a new thought**</div>
 <img src="/assets/images/Screenshot%20(103).png" />
 
+### <div align="center">**POST Route to add a new friend**</div>
 <img src="/assets/images/Screenshot%20(104).png" />
 
+### <div align="center">**POST Route to create a new reaction**</div>
 <img src="/assets/images/Screenshot%20(105).png" />
 
+### <div align="center">**DELETE Route to delete a user**</div>
 <img src="/assets/images/Screenshot%20(106).png" />
 
 ## **Questions**

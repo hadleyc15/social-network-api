@@ -1,27 +1,27 @@
 # <div align="center">**Social Network API**</div>
 
-## **PROJECT DESCRIPTION**
+## **Project Description**
 > Your challenge is to build an API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list. You’ll use Express.js for routing, a MongoDB database, and the Mongoose ODM. In addition to using the Express.js and Mongoose packages, you’ll need to use the Moment.js package to format time.
 
-## **TABLE OF CONTENTS** 
-[1. PROJECT DESCRIPTION](#PROJECT-DESCRIPTION)  
-[2. TABLE OF CONTENTS](#TABLE-OF-CONTENTS)  
-[4. APPLICATION LINKS](#APPLICATION-LINKS)  
-[5. CONTRIBUTORS](#CONTRIBUTORS)  
-[6. DEVELOPMENT](#DEVELOPMENT)  
-[7. USER STORY](#USER-STORY)  
-[8. ACCEPTANCE CRITERIA](#ACCEPTANCE-CRITERIA)  
-[9. SCREENSHOTS](#SCREENSHOTS)
-[10. QUESTIONS](#QUESTIONS)  
+## **Table of Contents** 
+* [Project Description](#project-description)  
+* [Table of Contents](#table-of-contents)  
+* [Application Links](#application-links)  
+* [Contributors](#contributors)  
+* [Development](#development)  
+* [User Story](#user-story)  
+* [Acceptance Criteria](#acceptance-criteria)  
+* [Screenshots](#screenshots)
+* [Questions](#questions)  
 
-## **APPLICATION LINKS**
+## **Application Links**
 > [Video Demonstration]()  
 > [GitHub Repository](https://github.com/hadleyc15/social-network-api)
 
-## **CONTRIBUTORS** 
+## **Contributors** 
 > Christopher Hadley | <hadleyc15@yahoo.com> | [github](https://github.com/hadleyc15)    
 
-## **DEVELOPMENT**
+## **Development**
 This application was developed with the following application structures:
 
 1. [Node.js](https://nodejs.org/en/)
@@ -31,13 +31,13 @@ This application was developed with the following application structures:
 
 ---
 
-## **USER STORY**
+## **User Story**
 
 > AS A social media startup 
 > I WANT an API for my social network that uses a NoSQL database
 > SO THAT my website can handle large amounts of unstructured data
 
-## **ACCEPTANCE CRITERIA**
+## **Acceptance Criteria**
 > GIVEN a social network API
 > WHEN I enter the command to invoke the application
 > THEN my server is started and the Mongoose models are synced to the MongoDB database
@@ -62,5 +62,5 @@ This application was developed with the following application structures:
 
 <img src="/assets/images/Screenshot%20(106).png" />
 
-## **QUESTIONS**
+## **Questions**
 >If you have any questions, please contact me (contact info is listed in the CONTRIBUTORS section of this README).
